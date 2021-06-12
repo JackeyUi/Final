@@ -10,5 +10,5 @@
 9. Then if it finds a AprilTag, it would moving towards to the AprilTag, and it would send "Go to the AprilTag" from the XBee.
 10. You can use "reset" button to back to redo the tasks form the beginning.
 11. Demo : 
-    https://www.youtube.com/watch?v=K6U-sBiof1M
-    https://www.youtube.com/watch?v=-KGvd8muTuk
+    pt.1: https://www.youtube.com/watch?v=K6U-sBiof1M
+    pt.2: https://www.youtube.com/watch?v=-KGvd8muTuk
